@@ -1,0 +1,8 @@
+DATA LOG
+***************************************
+Customer Name: Ntokozo
+Product: Restonic Barbados
+VAT: R 225.0
+COMMISSION: R 75.0
+TOTAL: R 1800.0
+***************************************
